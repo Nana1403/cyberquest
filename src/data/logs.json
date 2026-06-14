@@ -1,0 +1,9 @@
+[
+  "08:01 INFO User alex logged in successfully",
+  "08:05 INFO User maya opened payroll.xlsx",
+  "09:14 WARN Failed login attempt for admin",
+  "09:15 WARN Failed login attempt for admin",
+  "09:16 WARN Failed login attempt for admin",
+  "09:17 ALERT Successful login for admin from unknown device",
+  "09:25 INFO Firewall rule updated"
+]

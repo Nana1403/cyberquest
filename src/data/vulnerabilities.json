@@ -1,0 +1,22 @@
+[
+  {
+    "system": "Web Server",
+    "issue": "Outdated Apache Version",
+    "fix": "Update the web server software and review security patches."
+  },
+  {
+    "system": "Database Server",
+    "issue": "Weak Password Policy",
+    "fix": "Require long passwords and enable multi-factor authentication."
+  },
+  {
+    "system": "Employee Computer",
+    "issue": "Missing Security Updates",
+    "fix": "Install operating system updates and restart the computer."
+  },
+  {
+    "system": "Email Server",
+    "issue": "No Phishing Filter",
+    "fix": "Enable spam filtering and train employees to report suspicious email."
+  }
+]

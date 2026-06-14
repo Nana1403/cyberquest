@@ -1,0 +1,23 @@
+[
+  {
+    "subject": "URGENT: Reset your bank account now",
+    "sender": "security-alert@bank-help.example",
+    "body": "Click this link immediately or your account will be locked.",
+    "is_phishing": true,
+    "reason": "The message uses urgency, asks for account action, and comes from a suspicious sender."
+  },
+  {
+    "subject": "Team meeting notes",
+    "sender": "manager@company.example",
+    "body": "Here are the notes from today's team meeting.",
+    "is_phishing": false,
+    "reason": "The sender and message are normal and do not ask for risky action."
+  },
+  {
+    "subject": "You won a free laptop",
+    "sender": "prizes@free-gifts.example",
+    "body": "Send your password to claim your prize.",
+    "is_phishing": true,
+    "reason": "Legitimate organizations do not ask for passwords by email."
+  }
+]
