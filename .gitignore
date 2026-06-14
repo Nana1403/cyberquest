@@ -15,5 +15,3 @@ __pycache__/
 # Temporary files
 *.tmp.env
 src/.env
-.env
-src/.env
