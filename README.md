@@ -31,6 +31,28 @@ Students complete safe simulated missions instead of attacking real computers. T
 - Add a real openAI Cyber Mentor, using OpenAI API. 
 
 
+## Project Structure
+
+```text
+cyberquest/
+├── main.py
+├── gui.py
+├── models.py
+├── missions.py
+├── ai_helper.py
+├── scoring.py
+├── data/
+│   ├── emails.json
+│   ├── logs.json
+│   ├── passwords.json
+│   └── vulnerabilities.json
+├── assets/
+│   ├── icons/
+│   └── images/
+├── requirements.txt
+└── README.md
+```
+
 
 ## 📸 Demo
 
