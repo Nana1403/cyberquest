@@ -28,7 +28,7 @@ Students complete safe simulated missions instead of attacking real computers. T
 - Add difficulty levels for beginner, intermediate, and advanced students.
 - Add more cryptography examples, such as RSA demonstrations.
 - Add printable certificates when students complete all missions.
-- add a real openAI Cyber Mentor, using OpenAI API. 
+- Add a real openAI Cyber Mentor, using OpenAI API. 
 
 
 
